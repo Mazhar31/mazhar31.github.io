@@ -8,3 +8,4 @@
 ### Project 04 - [Hidden Search Widget](https://mazhar31.github.io/hidden-search/)
 ### Project 05 - [Blurry Loading](https://mazhar31.github.io/blurry-loading/)
 ### Project 06 - [Scroll Animation](https://mazhar31.github.io/scroll-animation/)
+### Project 07 - [Split Landing Page](https://mazhar31.github.io/split-landing-page/)
