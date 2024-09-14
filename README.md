@@ -12,4 +12,4 @@
 ### Project 08 - [Form Input Wave](https://mazhar31.github.io/form-input-wave/)
 ### Project 09 - [Sound Board](https://mazhar31.github.io/sound-board/)
 ### Project 10 - [Dad Jokes](https://mazhar31.github.io/dad-jokes/)
-### Project 11 - [Event KeyCodes](https://mazhar31.github.io/devent-keycodes/)
+### Project 11 - [Event KeyCodes](https://mazhar31.github.io/event-keycodes/)
