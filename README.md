@@ -13,3 +13,4 @@
 ### Project 09 - [Sound Board](https://mazhar31.github.io/sound-board/)
 ### Project 10 - [Dad Jokes](https://mazhar31.github.io/dad-jokes/)
 ### Project 11 - [Event KeyCodes](https://mazhar31.github.io/event-keycodes/)
+### Project 12 - [FAQ Collapse](https://mazhar31.github.io/faq-collapse/)
