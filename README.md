@@ -16,3 +16,4 @@
 ### Project 12 - [FAQ Collapse](https://mazhar31.github.io/faq-collapse/)
 ### Project 13 - [Random Choice Picker](https://mazhar31.github.io/random-choice-picker/)
 ### Project 14 - [Animated Navigation](https://mazhar31.github.io/animated-navigation/)
+### Project 15 - [Incrementing Counter](https://mazhar31.github.io/incrementing-counter/)
