@@ -18,3 +18,4 @@
 ### Project 14 - [Animated Navigation](https://mazhar31.github.io/animated-navigation/)
 ### Project 15 - [Incrementing Counter](https://mazhar31.github.io/incrementing-counter/)
 ### Project 16 - [Drink Water](https://mazhar31.github.io/drink-water/)
+### Project 17 - [Movie App](https://mazhar31.github.io/movie-app/)
