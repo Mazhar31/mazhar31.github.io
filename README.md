@@ -20,3 +20,5 @@
 ### Project 16 - [Drink Water](https://mazhar31.github.io/drink-water/)
 ### Project 17 - [Movie App](https://mazhar31.github.io/movie-app/)
 ### Project 18 - [Background Slider](https://mazhar31.github.io/background-slider/)
+### Project 19 - [Theme Clock](https://mazhar31.github.io/theme-clock/)
+### Project 20 - [Button Ripple Effect](https://mazhar31.github.io/button-ripple-effect/)
