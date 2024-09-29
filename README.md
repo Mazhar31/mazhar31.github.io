@@ -24,3 +24,4 @@
 ### Project 20 - [Button Ripple Effect](https://mazhar31.github.io/button-ripple-effect/)
 ### Project 21 - [Drag N Drop](https://mazhar31.github.io/drag-n-drop/)
 ### Project 22 - [Drawing App](https://mazhar31.github.io/drawing-app/)
+### Project 23 - [Kinetic Loader](https://mazhar31.github.io/kinetic-loader/)
