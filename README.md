@@ -25,3 +25,4 @@
 ### Project 21 - [Drag N Drop](https://mazhar31.github.io/drag-n-drop/)
 ### Project 22 - [Drawing App](https://mazhar31.github.io/drawing-app/)
 ### Project 23 - [Kinetic Loader](https://mazhar31.github.io/kinetic-loader/)
+### Project 23 - [Content Placeholder](https://mazhar31.github.io/content-placeholder/)
