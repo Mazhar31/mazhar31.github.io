@@ -26,3 +26,4 @@
 ### Project 22 - [Drawing App](https://mazhar31.github.io/drawing-app/)
 ### Project 23 - [Kinetic Loader](https://mazhar31.github.io/kinetic-loader/)
 ### Project 24 - [Content Placeholder](https://mazhar31.github.io/content-placeholder/)
+### Project 25 - [Sticky Navbar](https://mazhar31.github.io/sticky-navbar/)
