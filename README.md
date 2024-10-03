@@ -27,3 +27,4 @@
 ### Project 23 - [Kinetic Loader](https://mazhar31.github.io/kinetic-loader/)
 ### Project 24 - [Content Placeholder](https://mazhar31.github.io/content-placeholder/)
 ### Project 25 - [Sticky Navbar](https://mazhar31.github.io/sticky-navbar/)
+### Project 26 - [Double Vertical Slider](https://mazhar31.github.io/double-vertical-slider/)
