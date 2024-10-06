@@ -29,3 +29,4 @@
 ### Project 25 - [Sticky Navbar](https://mazhar31.github.io/sticky-navbar/)
 ### Project 26 - [Double Vertical Slider](https://mazhar31.github.io/double-vertical-slider/)
 ### Project 27 - [Toast Notification](https://mazhar31.github.io/toast-notification/)
+### Project 28 - [GitHub Profiles](https://mazhar31.github.io/github-profiles/)
