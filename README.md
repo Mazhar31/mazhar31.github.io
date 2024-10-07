@@ -30,3 +30,4 @@
 ### Project 26 - [Double Vertical Slider](https://mazhar31.github.io/double-vertical-slider/)
 ### Project 27 - [Toast Notification](https://mazhar31.github.io/toast-notification/)
 ### Project 28 - [GitHub Profiles](https://mazhar31.github.io/github-profiles/)
+### Project 29 - [Double Click Heart](https://mazhar31.github.io/double-click-heart/)
