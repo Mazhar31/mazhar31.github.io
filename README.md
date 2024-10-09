@@ -31,3 +31,4 @@
 ### Project 27 - [Toast Notification](https://mazhar31.github.io/toast-notification/)
 ### Project 28 - [GitHub Profiles](https://mazhar31.github.io/github-profiles/)
 ### Project 29 - [Double Click Heart](https://mazhar31.github.io/double-click-heart/)
+### Project 30 - [Auto Text Effect](https://mazhar31.github.io/auto-text-effect/)
