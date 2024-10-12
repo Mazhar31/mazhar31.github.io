@@ -32,3 +32,4 @@
 ### Project 28 - [GitHub Profiles](https://mazhar31.github.io/github-profiles/)
 ### Project 29 - [Double Click Heart](https://mazhar31.github.io/double-click-heart/)
 ### Project 30 - [Auto Text Effect](https://mazhar31.github.io/auto-text-effect/)
+### Project 31 - [Password Generator](https://mazhar31.github.io/password-generator/)
