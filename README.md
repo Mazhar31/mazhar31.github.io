@@ -35,3 +35,4 @@
 ### Project 31 - [Password Generator](https://mazhar31.github.io/password-generator/)
 ### Project 32 - [Good Cheap Fast](https://mazhar31.github.io/good-cheap-fast/)
 ### Project 33 - [Notes App](https://mazhar31.github.io/notes-app/)
+### Project 34 - [Animated Countdown](https://mazhar31.github.io/animated-countdown/)
