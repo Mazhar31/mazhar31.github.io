@@ -36,3 +36,4 @@
 ### Project 32 - [Good Cheap Fast](https://mazhar31.github.io/good-cheap-fast/)
 ### Project 33 - [Notes App](https://mazhar31.github.io/notes-app/)
 ### Project 34 - [Animated Countdown](https://mazhar31.github.io/animated-countdown/)
+### Project 35 - [Image Carousel](https://mazhar31.github.io/image-carousel/)
